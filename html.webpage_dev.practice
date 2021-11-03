@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>vrknews.co</title>
+
+
+    </head>
+    <body>
+      <header>
+           <h1>News by vikram's gallery !</h1>
+           <h3>I don't care its accurate , I care about it"s the best !</h3>
+      </header>
+
+      <main>
+         <section>
+           <h2>About me</h2>
+           <p>I have worked so many years for the news industry ad after the work I found that the public only wants the best news instead of the accurate news</p>
+         </section>
+
+         <section>
+             <article>
+<!-- "LINK" generating in HTML file  -->
+                <a href="https://www.nirfindia.org/2021/EngineeringRanking.html"><h3>Go and watch out the NIRF rankings of 2021</h3></a>
+                <p>now the NIRF official ranking of 2021 is in public domian by the central ministry !</p>
+                  <br /><br />
+           </article>
+
+           <article>
+
+             <a href="https://www.investopedia.com/articles/investing/012715/5-richest-people-world.asp"><h3>Here are the latest top 10 richest man on the globe</h3></a>
+             <p>Nowyou can see the latest top 10 richest man on the earth !</p>
+                 <br /><br />
+          </article>
+
+          <article>
+            <a href="https://www.careerpower.in/cricket-world-cup-winners-list.html"><h3>so, here are the all world cup winning teams </h3></a>
+            <p>now you all are free to see the all teams name who won the world cups !</p>
+                <br /><br />
+         </article>
+         </section>
+
+         <section id="contact-form">
+               <h2>Place order</h2>
+               <form method="GET" action="place-order.php">
+
+               </form>
+         </section>
+
+
+      </main>
+
+
+    </body>
+</html>
